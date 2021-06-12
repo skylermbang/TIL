@@ -8,6 +8,8 @@ Record what have I learnt today.
 <h2> JUNE 2021 </h2>
 <br>
 
+
+
 * <details>
   <summary>
    Detail
@@ -15,6 +17,8 @@ Record what have I learnt today.
     <br>
 
     20210611: https://github.com/skylermbang/TIL/blob/main/0611.md
+  <br>
+    20210611: https://github.com/skylermbang/TIL/blob/main/0612.md
 
   </details>
   <br>

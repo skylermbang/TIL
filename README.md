@@ -12,7 +12,7 @@ Record what have I learnt today.
 
 * <details>
   <summary>
-   Detail
+   TIL
   </summary>
     <br>
 

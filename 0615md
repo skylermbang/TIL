@@ -1,0 +1,28 @@
+
+##TIL
+
+make sure to use follwing :
+a //b 
+a % b 
+
+a//b. 
+Floor Division - The division of operands where the result is the quotient in which the digits after the decimal point are removed.
+But if one of the operands is negative, the result is floored
+
+9/2 => 4.5
+9//2 => 4
+98//10=>9
+a//10=> show the tenth 
+
+
+
+a%b
+	Divides left hand operand by right hand operand and returns remainder
+  
+9/2 = 4.5
+9%2 = 1
+12%3= 0
+12%10 = 2
+26%10 =6
+x%10 = show the units
+

@@ -11,3 +11,19 @@ Q. 다음과 같이 영어로 되어 있는 문자열이 있을 때, 이 문자�
 
 <hr>
 백준문제 1110  다시풀기 
+<hr>
+
+what is list[-1:] ?
+
+          def flip(some_list):
+              # base case
+              if len(some_list) == 0 or len(some_list) == 1:
+                  return some_list
+
+              # recursive case
+              return some_list[-1:] + flip(some_list[:-1]) # i dont understand
+
+                 #테스트
+              some_list = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+              some_list = flip(some_list)
+              print(some_list)

@@ -43,6 +43,12 @@ Record what have I learnt today.
     20210624: https://github.com/skylermbang/TIL/blob/main/0624.md
      <br>
     20210625: https://github.com/skylermbang/TIL/blob/main/0625.md
+    <br>
+    20210626: https://github.com/skylermbang/TIL/blob/main/0625.md
+    <br>
+    20210627: https://github.com/skylermbang/Lectures-/blob/master/JS/PS/0627.pdf
+    <br>
+    20210625: https://github.com/skylermbang/TIL/blob/main/0625.md
   </details>
   <br>
   

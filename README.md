@@ -52,8 +52,25 @@ Record what have I learnt today.
   </details>
   <br>
   
+  
+<h2> JULY 2021 </h2>
+<br>
 
 
+
+* <details>
+  <summary>
+   TIL
+  </summary>
+    <br>
+
+    20210701: 
+  <br>
+
+  </details>
+  <br>
+
+<hr>
 * <details>
   <summary>
    Questions

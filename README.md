@@ -10,7 +10,7 @@ Record what have I learnt today.
 
 
 
-* <details>
+ <details>
   <summary>
    TIL
   </summary>
@@ -57,21 +57,29 @@ Record what have I learnt today.
 <br>
 
 
-
-* <details>
+ <details>
   <summary>
    TIL
   </summary>
     <br>
 
-    20210701: 
-  <br>
-
+ 
+   
   </details>
   <br>
+  
+<h2> AUGSUT  2021 </h2>
+<details>
+  <summary>
+   TIL
+  </summary>
+    <br>
 
-<hr>
-* <details>
+  
+  </details>
+  <br>
+  
+<details>
   <summary>
    Questions
   </summary>

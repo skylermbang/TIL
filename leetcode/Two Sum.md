@@ -13,7 +13,7 @@
                     for i in range (len(nums)):
                         for j in range(len(nums)+1):
                             if nums[i]+nums[j]== target:
-                                print([i,j])
+                                return[i,j]
  
  
  Obiously its the simplist and not "smart" answer.   It has o(n^2) time complexity but this is my first algorithms questions 
